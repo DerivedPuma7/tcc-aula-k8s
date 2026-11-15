@@ -15,7 +15,7 @@ Em cerca de 40 minutos, vamos partir de um único Pod, ainda sem acesso pela red
 | 4 | Acessar pelo navegador | Service NodePort | 6 min |
 | Fim | Recapitulação e limpeza | Visão do todo | 3 min |
 
-## Antes da aula (professor)
+## Antes da aula
 
 1. Docker, kind e kubectl instalados: ver docker.md e kubernetes.md na pasta `pre-requisitos`
 2. Cluster criado e contexto definido: ver cluster.md na pasta `pre-requisitos`
